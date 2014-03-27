@@ -7,6 +7,8 @@ See: http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC
 
 For viewing IPython notebook in the web (or you can copy the url of the file yourself, in here: http://nbviewer.ipython.org/ )
 
+<u>Updates 3/27</u>
+
 Accompanying Fast Company Labs story: http://www.fastcolabs.com/3028265/how-i-narrowed-down-the-location-of-malaysia-air-using-monte-carlo-data-models
 
 Feel free to reach out with comments or suggestions -- especially critiques and criticisms.
