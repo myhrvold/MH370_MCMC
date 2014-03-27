@@ -11,7 +11,9 @@ For viewing IPython notebook in the web (or you can copy the url of the file you
 
 Updates 3/27:
 
-Accompanying Fast Company Labs story: http://www.fastcolabs.com/3028265/how-i-narrowed-down-the-location-of-malaysia-air-using-monte-carlo-data-models
+Accompanying Fast Company Labs stories: http://www.fastcolabs.com/3028265/how-i-narrowed-down-the-location-of-malaysia-air-using-monte-carlo-data-models
+
+http://www.fastcolabs.com/3028331/more-about-our-methodology-tracking-mh370-with-monte-carlo-data-models
 
 Feel free to reach out with comments or suggestions -- especially critiques and criticisms.
 
