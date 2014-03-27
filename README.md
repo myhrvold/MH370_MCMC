@@ -15,6 +15,15 @@ Accompanying Fast Company Labs stories: http://www.fastcolabs.com/3028265/how-i-
 
 http://www.fastcolabs.com/3028331/more-about-our-methodology-tracking-mh370-with-monte-carlo-data-models
 
+
+
+For a standalone Python script version, see the work of: https://github.com/natlaughlin/MH370_MCMC (thanks! :0) )
+
+
+
+
 Feel free to reach out with comments or suggestions -- especially critiques and criticisms.
 
 I've noticed several typos in the IPython notebook; I plan on addressing in an updated version (separate notebook).
+
+
