@@ -17,7 +17,7 @@ http://www.fastcolabs.com/3028331/more-about-our-methodology-tracking-mh370-with
 
 
 
-For a standalone Python script version, see the work of: https://github.com/natlaughlin/MH370_MCMC (thanks! :0) )
+For a standalone Python script version, see the work of Nathaniel Laughlin (github username natlaughlin): https://github.com/natlaughlin/MH370_MCMC (thanks! :0) )
 
 
 
