@@ -3,10 +3,11 @@ MH370_MCMC
 
 Modeling the Last Flight of MH370 with a Markov Chain Monte Carlo Method
 
-See: http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold.ipynb?create=1
+Version 1 fixed: http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold-bug_fixes.ipynb?create=1
+
+Version 1 original: http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold.ipynb?create=1
 
 For viewing IPython notebook in the web (or you can copy the url of the file yourself, in here: http://nbviewer.ipython.org/ )
-
 
 
 Updates 3/27:
@@ -15,11 +16,13 @@ Accompanying Fast Company Labs stories: http://www.fastcolabs.com/3028265/how-i-
 
 http://www.fastcolabs.com/3028331/more-about-our-methodology-tracking-mh370-with-monte-carlo-data-models
 
-
-
 For a standalone Python script version, see the work of Nathaniel Laughlin (github username natlaughlin): https://github.com/natlaughlin/MH370_MCMC (thanks! :0) )
 
+Updates 3/29:
 
+Working on Version 2 -- in course of doing that, realized 3 bugs in Version 1.
+
+Updated Version 1 while keeping original, for comparison purposes and transparency.
 
 
 Feel free to reach out with comments or suggestions -- especially critiques and criticisms.
