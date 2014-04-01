@@ -19,6 +19,8 @@ Part 3 of 3
 
 http://qa.nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold-V2-Part3.ipynb?create=1
 
+Also see repo for full version (downloadable, ~17 MB, and ~250KB w/ no output)
+
 -------------------------------------------------------------------------------------------
 
 Version 1 fixed: 
@@ -39,8 +41,10 @@ http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_Cono
 
 For viewing IPython notebook in the web (or you can copy the url of the file yourself, in here: http://nbviewer.ipython.org/ )
 
--------------------------------------------------------------------------------------------
 
+-------------------------------------------------------------------------------------------
+UPDATE LOG
+-------------------------------------------------------------------------------------------
 Updates 3/27:
 
 Accompanying Fast Company Labs stories: http://www.fastcolabs.com/3028265/how-i-narrowed-down-the-location-of-malaysia-air-using-monte-carlo-data-models
