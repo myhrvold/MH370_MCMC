@@ -4,11 +4,16 @@ MH370_MCMC
 Modeling the Last Flight of MH370 with a Markov Chain Monte Carlo Method
 
 Version 2
+
 Part 1 of 3
+
 http://qa.nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold-V2-Part1.ipynb?create=1
+
 Part 2 of 3 
 http://qa.nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold-V2-Part2.ipynb?create=1
+
 Part 3 of 3
+
 http://qa.nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold-V2-Part3.ipynb?create=1
 
 Version 1 fixed: http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold-bug_fixes.ipynb?create=1
