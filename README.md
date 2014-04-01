@@ -51,7 +51,6 @@ http://www.fastcolabs.com/3028331/more-about-our-methodology-tracking-mh370-with
 
 For a standalone Python script version, see the work of Nathaniel Laughlin (github username natlaughlin): https://github.com/natlaughlin/MH370_MCMC (thanks! :0) )
 
-For viewing IPython notebook in the web (or you can copy the url of the file yourself, in here: http://nbviewer.ipython.org/ )
 -------------------------------------------------------------------------------------------
 
 Updates 3/29:
@@ -75,4 +74,4 @@ Feel free to reach out with comments or suggestions -- especially critiques and 
 
 I've noticed several typos in the IPython notebook; I plan on addressing in an updated version (separate notebook).
 
-
+For viewing IPython notebook in the web (or you can copy the url of the file yourself, in here: http://nbviewer.ipython.org/ )
