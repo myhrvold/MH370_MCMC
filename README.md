@@ -51,7 +51,7 @@ http://www.fastcolabs.com/3028265/how-i-narrowed-down-the-location-of-malaysia-a
 
 http://www.fastcolabs.com/3028331/more-about-our-methodology-tracking-mh370-with-monte-carlo-data-models
 
-
+http://www.fastcolabs.com/3028569/this-data-model-shows-mh370-could-not-have-flown-accidentally-to-its-destination
 
 -------------------------------------------------------------------------------------------
 Update Log
