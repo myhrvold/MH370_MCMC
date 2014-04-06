@@ -77,6 +77,12 @@ Part 1, Part 2, Part 3.
 Download the 17 MB file with V2 at the end, or with no output (named as such). Those are the ones you'll want to re-run the code yourself.
 
 -------------------------------------------------------------------------------------------
+
+Updates 4/6:
+
+I'm working on more analysis, and formally trying more parameter variations from my current model. I aim to have that done by mid-April. After that, unclear that I'll be able to get greater resolution of search areas besides what I've currently done. I'll further clean up the code, in a separate notebook, with the next set of analysis.
+
+-------------------------------------------------------------------------------------------
 Other
 -------------------------------------------------------------------------------------------
 Feel free to reach out with comments or suggestions -- especially critiques and criticisms.
