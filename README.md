@@ -9,6 +9,12 @@ Modeling the Last Flight of MH370 with a Markov Chain Monte Carlo Method
 Versions
 -------------------------------------------------------------------------------------------
 
+Version 3:
+
+http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold-V3.ipynb?create=1
+
+-------------------------------------------------------------------------------------------
+
 Version 2
 
 Part 1 of 3
@@ -89,6 +95,12 @@ I'm working on more analysis, and formally trying more parameter variations from
 Updates 4/8:
 
 Article summarizing what I've done to date, in addition to context of latest MH370 news, added to FastCo Labs coverage. "With New Information, Our Data Models Point To Foul Play On Malaysia Air Flight 370".
+
+-------------------------------------------------------------------------------------------
+
+Updates 4/14:
+
+Version 3 finished and released. Where to continue the search, based on Version 1 and Version 2 implementations and assumptions.
 
 -------------------------------------------------------------------------------------------
 Other
