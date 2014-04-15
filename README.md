@@ -102,6 +102,10 @@ Updates 4/14:
 
 Version 3 finished and released. Where to continue the search, based on Version 1 and Version 2 implementations and assumptions.
 
+Updates 4/15:
+
+Small typos corrected in text.
+
 -------------------------------------------------------------------------------------------
 Other
 -------------------------------------------------------------------------------------------
