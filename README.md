@@ -61,6 +61,8 @@ http://www.fastcolabs.com/3028569/this-data-model-shows-mh370-could-not-have-flo
 
 http://www.fastcolabs.com/3028847/with-new-information-our-data-models-point-to-foul-play-on-malaysia-air-flight-370
 
+http://www.fastcolabs.com/3029199/as-black-box-pings-go-silent-heres-how-data-can-narrow-the-search-for-malaysia-air-flight-37#
+
 -------------------------------------------------------------------------------------------
 Update Log
 -------------------------------------------------------------------------------------------
