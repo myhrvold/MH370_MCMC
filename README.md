@@ -104,6 +104,8 @@ Updates 4/14:
 
 Version 3 finished and released. Where to continue the search, based on Version 1 and Version 2 implementations and assumptions.
 
+-------------------------------------------------------------------------------------------
+
 Updates 4/15:
 
 Small typos corrected in text.
@@ -111,8 +113,6 @@ Small typos corrected in text.
 -------------------------------------------------------------------------------------------
 Other
 -------------------------------------------------------------------------------------------
-Feel free to reach out with comments or suggestions -- especially critiques and criticisms.
+Feel free to reach out with comments, critiques, criticisms.
 
-I've noticed several typos in the IPython notebook; I plan on addressing in an updated version (separate notebook).
-
-For viewing IPython notebook in the web (or you can copy the url of the file yourself, in here: http://nbviewer.ipython.org/ )
+To view IPython notebook in browser copy .ipynb url in here: http://nbviewer.ipython.org/
